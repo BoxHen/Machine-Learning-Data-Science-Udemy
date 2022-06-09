@@ -1,0 +1,45 @@
+What is machine Learning:
+	Machine learning is the use and control of machines to help us do tasks. The machines are programmed to do something and in order to program the machines, we need to understand, quantify and qualify requirements to do so. 
+	However, some tasks are hard to program. For exmaple, how do you program a machines to identify objects, animals, or emotions? The harder things are to describe, the harder it is for us to program. Right now, we hire
+	people to do these tasks that computers cannot. The goal of machine learning is to make machines act more and more like humans.
+	
+	In other words, it is taking data and processing it through a algorithm to determine a pattern
+	
+	Machine elarning came to be bc of the tremendous data we have and need processed. It started out with spreadshets like excel and we analyzed them to make  better decisions. We eventually got so much of this data that 
+	we had relational DB/SQL -> No SQL/MONGO DB -> and now machine learning. Instead of having humans analyze this massive data, we have machines do this for us, to make sense of it. 
+	
+	Can be of three categories:
+		Supervised    :
+			patterns are classifed as an object like apples or pears, or predicting stock prices
+			
+			classification:
+				Binary classification: two options
+				Multi class: more than two options
+			regression:
+				prediction of number
+		Unsupervised  :
+			data that doesn't have labels. We need to create these groups or have the machine create these groups. For example, with data points the machine decides, this is a group, this is a group, and this is a group.
+			When groups don't exist, we call it unsupervised learning. There are no true categories, but we let the machines just create these categories for us.
+		Reinforcement :
+			Teaches machines through trial. We have a goal or high score and over many repetitions, the machine learns what to do to achieve that goal. 
+	
+What is (Artificial Intelligence)AI:
+	AI is human intelligence or cognitive abilities that are replicated or exhibited by machines 
+	
+	Narrow AI : machines can be just as good or better than humans at a specific singular task - narrow bc they're not like humans where we have multiple abilities
+	General AI: machines that behave like humans and have multiple abilities (we are far away from this)
+	
+	Machine learning is a subset of AI. It is an approach to try and achieve artificial intelligence through systems that can find patterns in a set of data.
+	
+Types of Data:
+	structured:
+		excel or csv files
+	unstructured:
+		pictures, videos, etc. we need to find a way to use them in a meaningful way
+	static:
+		data that doesn't change over time
+	streaming:
+		
+		
+		0666 7968 56
+		
