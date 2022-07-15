@@ -39,7 +39,21 @@ Types of Data:
 	static:
 		data that doesn't change over time
 	streaming:
+	
+Types of Evaluation:
+	Classification:
+		Accuracy
+		Precision
+		Recall
+	Regression:
+		Mean absolute error(MAE)
+		Mean squared error(MSE)
+		Root mean squred error(RMSE)
+	Recommendation:
+		Precision at K
 		
-		
-		0666 7968 56
+	evaluation metrics are used for different problems cases
+	
+Features:
+	
 		
