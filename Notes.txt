@@ -55,5 +55,14 @@ Types of Evaluation:
 	evaluation metrics are used for different problems cases
 	
 Features:
-	
+	differnt forms of data
+	There are different kinds of data, such as structured and unstructured, but features refers to the different forms of data within structured or unstructured data. Also referred to as feature variables
+		we want to use feature variables to predict target variables
+		for example, using a person weight, height, heart rate(features) to predict if they have heart disease(target)
+		
+	Feature variables - split into two
+		numerical - a number
+		categorical - a true or false / yes or no (gender)
+		derived - data thats that is analyzed to create new feature
+		
 		
